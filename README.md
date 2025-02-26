@@ -25,7 +25,6 @@ Using the `igraph` package in **R**, we explore key network properties, compute 
 - **Visualize** the network and key structural properties.
 - **Export** results for further analysis.
 
-  ```
   
 ## **Key Findings**
 - **Degree Distribution**: Most individuals have a low number of connections, but a few key nodes have significantly high degrees.
